@@ -1,0 +1,6 @@
+C:\Users\owner\Documents\codingbootcamp\Programs\uploadgithub\bookreview\bookreview\bin\Debug\bookreview.exe.config
+C:\Users\owner\Documents\codingbootcamp\Programs\uploadgithub\bookreview\bookreview\bin\Debug\bookreview.exe
+C:\Users\owner\Documents\codingbootcamp\Programs\uploadgithub\bookreview\bookreview\bin\Debug\bookreview.pdb
+C:\Users\owner\Documents\codingbootcamp\Programs\uploadgithub\bookreview\bookreview\obj\Debug\bookreview.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\codingbootcamp\Programs\uploadgithub\bookreview\bookreview\obj\Debug\bookreview.exe
+C:\Users\owner\Documents\codingbootcamp\Programs\uploadgithub\bookreview\bookreview\obj\Debug\bookreview.pdb
